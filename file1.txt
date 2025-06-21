@@ -1,1 +1,3 @@
-test1
+<<<<<<< HEAD
+重新定义的test
+>>>>>>> ab9a6d54b97351ff1c2bf3e30c045473a56bb5cc
